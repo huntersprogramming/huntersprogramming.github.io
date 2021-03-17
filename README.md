@@ -1,4 +1,2 @@
-# Course Examples
-
-## Current Courses
+## Current Course Examples
 - HTML & CSS Fundamentals
