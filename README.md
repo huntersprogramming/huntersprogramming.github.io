@@ -1,2 +1,4 @@
-# huntersprogramming.github.io
-Course examples
+# Course Examples
+
+## Current Courses
+- HTML & CSS Fundamentals
